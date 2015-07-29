@@ -6,4 +6,9 @@ Testproject for Xamarin
 ##Då var det dags för git nummer två ;)
 
 
-[docs/test.md](docs/test "test")
+[fdsf](docs/test.md)
+
+[fdsf](docs/test)
+
+
+[doc](hej)
